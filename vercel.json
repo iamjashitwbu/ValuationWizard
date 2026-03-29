@@ -1,5 +1,5 @@
 {
-  "buildCommand": "pnpm install && pnpm --filter @workspace/dcf-valuation run build",
+  "buildCommand": "pnpm install && pnpm --filter dcf-valuation run build",
   "installCommand": "echo 'install handled in buildCommand'",
   "outputDirectory": "dcf-valuation/dist/public",
   "framework": null,
